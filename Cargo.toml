@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-installation-wizard"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS installation-wizard component - installer"
+
+[lib]
+name = "installation_wizard"
+path = "src/lib.rs"
