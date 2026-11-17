@@ -3,7 +3,7 @@ name = "SigmaOS-installation-wizard"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "installation-wizard component"
+description = "Installation Wizard"
 upstream = []
 
 [contract]
